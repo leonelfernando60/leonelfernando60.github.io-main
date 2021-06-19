@@ -1,0 +1,18 @@
+.container-basic {
+  background-color: #002551;
+  width: 100%;
+}
+.navbar {
+  background-color: #014598;
+}
+
+body{
+	background-color: #002551;
+	color: white;
+	text-align: center;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container dipi{
+	padding-top: 50px;
+	margin-top: 50px;
+}

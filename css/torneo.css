@@ -1,0 +1,81 @@
+.container-basic {
+    background-color: #002551;
+    width: 100%;
+  }
+  .navbar {
+    background-color: #014598;
+  }
+  .container-basic {
+    background-color: #002551;
+    width: 100%;
+  }
+  .navbar {
+    background-color: #014598;
+  }
+  
+  /**************/
+.logo-torneo {
+  padding-left: 40%;
+  margin: 0;
+}  
+.info-torneo {
+  margin: auto;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: orange;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.img-2 {
+  padding-left: 35%;
+  margin: auto;
+}
+/************/
+.temporada-2021 {
+  color: orangered;
+  margin: auto;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+ 
+.p-torneo {
+  display: flex;
+  width: 100%;
+  border-top: 1px solid black;
+  color: #f1f1f1;
+  padding: 20px 0px;
+  transition: all 0.2s;
+}
+.calendario-completo {
+  color: red;
+  border-bottom: 1px solid black;
+}
+/***********/
+.clasificacion-a {
+  color: orangered;
+  margin: auto;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.equipo {
+  color: #f1f1f1;
+}
+/***********/
+.salon-fama{
+  color: orangered;
+  margin: auto;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.info-salonf{
+  color: orange;
+}
+.fama-a {
+  color: #f1f1f1;
+}
+.fama-b {
+  color: red;
+}
